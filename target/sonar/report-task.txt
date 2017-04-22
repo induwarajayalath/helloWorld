@@ -1,0 +1,5 @@
+projectKey=INduwaraCreation:helloWorld
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/INduwaraCreation:helloWorld
+ceTaskId=AVuU1elhZJ36JDV2szJO
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVuU1elhZJ36JDV2szJO
